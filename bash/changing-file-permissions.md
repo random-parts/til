@@ -43,6 +43,8 @@ $ chmod a-x file.txt
 
 ### Using Binary References
 
+| | | |
+|---|---|---|---|
 **permission** | `r` | `w` | `x`
 **value** | 4 | 2 | 1
 
