@@ -7,15 +7,15 @@ tags:
   - liquid
 ---
 
-My goal for the `random.parts` project was to use Github Pages for hosting and to only use CSS & liquid - no javascript. I also wanted Github to render the `_site` folder, and not be tied to my local set-up. That meant no plugins, but I also really did not want to keep track of any new categories in the [TILs] or future sections. I frist attempeted to use a [CSS solution][generate-category-pages-using-css-for-posts], but I didnt like the possiablity of large file sizes later on.
+My goal for the `random.parts` project was to use GitHub Pages for hosting and to only use CSS & liquid - no javascript. I also wanted GitHub to render the `_site` folder, and not be tied to my local set-up. That meant no plugins, but I also really did not want to keep track of any new categories in the [TILs] or future sections. I first attempted to use a [CSS solution][generate-category-pages-using-css-for-posts], but I didnt like the possibility of large file sizes later on.
 
-Permalinks generate the pages needed, based on the `_config`. I just wanted it to generate two seperate sets of `/index.html`. That's where I wondered if I could duplicate the collections and set different permalinks. [Git Submodules] make this easy to do. Even if it is a little ugly, it satisfies my requirements of updating efficiency/portability while using Github Pages to render the `_site`.
+Permalinks generate the pages needed, based on the `_config`. I just wanted it to generate two separate sets of `/index.html`. That's where I wondered if I could duplicate the collections and set different permalinks. [Git Submodules] make this easy to do. Even if it is a little ugly, it satisfies my requirements of updating efficiency/portability while using Github Pages to render the `_site`.
 
 ---
 
 - [GitHub Pages] : Does not allow Jekyll plugins, making it more difficult to have both category indexes and article pages
 
-- [Git Submodules] : Can be used as collections, and allows the content to be seprate from the site code.
+- [Git Submodules] : Can be used as collections, and allows the content to be separate from the site code.
 
 - [Jekyll Permalinks] : Structures the generated content of the published site.
 
