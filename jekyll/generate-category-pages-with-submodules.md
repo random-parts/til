@@ -27,7 +27,7 @@ Use permalinks to generate the `category/index.html` pages &  make `category/tit
 ```sh
 # add submodules from a Public repo
 $ git submodule add https://github.com/username/repo-name.git _submod_cat
-$ git submodule add https://github.com/username/repo-name.git _submod_slug
+$ git submodule add https://github.com/username/repo-name.git _submod_article
 
 # track submodules
 $ git add .
@@ -40,7 +40,7 @@ $ git add .
 collections:
   submod_cat:
     output: true
-  submod_slug:
+  submod_article:
     output: true
 
 defaults:
