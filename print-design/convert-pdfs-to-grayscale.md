@@ -1,5 +1,5 @@
 ---
-headline: 'Covert PDFs to grayscale for offset printing'
+headline: 'Convert PDFs to grayscale for offset printing'
 date: 2016-08-24
 category: print-design
 tags:
