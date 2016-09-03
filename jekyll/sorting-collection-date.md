@@ -35,4 +35,4 @@ date: "YYYY-MM-DD" <!-- is a string -->
 {% endraw %}
 
 ---
-[source](http://stackoverflow.com/a/30946672)
+- [source](http://stackoverflow.com/a/30946672)

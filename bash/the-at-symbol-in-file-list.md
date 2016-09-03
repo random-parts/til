@@ -20,4 +20,4 @@ It indicates that the file has extended attributes.
 - `$ xattr` to edit
 
 ---
-[source](http://superuser.com/a/155459)
+- [source](http://superuser.com/a/155459)

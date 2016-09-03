@@ -16,16 +16,16 @@ tags:
   }
 ```
 
-- Use `:hover` to change the `background` (& other styles) when the cursor is positioned over the element 
+- Use `:hover` to change the `background` (& other styles) when the cursor is positioned over the element
 
 ```css
 /* .css */
 
-label:hover { 
+label:hover {
   background: #ccc;
 }
 ```
 
 ---
-[source](http://stackoverflow.com/a/15004661)
-[hover source](http://stackoverflow.com/a/3359409)
+- [source](http://stackoverflow.com/a/15004661)
+- [hover source](http://stackoverflow.com/a/3359409)

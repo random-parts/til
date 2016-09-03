@@ -38,7 +38,7 @@ I had been using markdowns inline links when typing notes. However, it only allo
 Now the link will work if viewing on the repo they are located in and also on the gihub pages site.
 
 ---
-[source](http://stackoverflow.com/a/32757152)
+- [source](http://stackoverflow.com/a/32757152)
 
 [reference style links]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
 [random.parts]: https://random.parts

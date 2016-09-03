@@ -19,6 +19,6 @@ http://groups.google.com/group/GROUP-NAME/boxsubscribe?email=[EMAIL]
 - If receiving email to a gmail account, copy the confirmation link, logout of gmail and clear browser. Then `paste and go`.
 
 ---
-[source](http://webapps.stackexchange.com/a/13510)
+- [source](http://webapps.stackexchange.com/a/13510)
 
 [Google Groups Help]: https://support.google.com/groups#topic=9216

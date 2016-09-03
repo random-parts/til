@@ -29,4 +29,4 @@ This search | Finds gists with…
 `system size:\>1000` | Find all instances of system in gists containing a file larger than 1000kbs.
 
 ---
-[source](https://gist.github.com/search#search_cheatsheet_pane)
+- [source](https://gist.github.com/search#search_cheatsheet_pane)
