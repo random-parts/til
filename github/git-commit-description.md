@@ -1,5 +1,5 @@
 ---
-headline: 'git commit description'
+headline: 'Git commit description'
 date: 2017-07-07
 category: github
 tags:
